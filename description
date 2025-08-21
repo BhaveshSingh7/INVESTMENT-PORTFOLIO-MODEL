@@ -1,0 +1,10 @@
+Stock Portfolio Performance Tracker
+This is a simple command-line application written in Python to track your stock portfolio performance. It allows you to add, remove, and view stocks in your portfolio, along with calculating their current value and your gain or loss.
+Features
+Add Stock: Add new stocks to your portfolio with details like symbol, number of shares, purchase price, and current price.
+Remove Stock: Remove existing stocks from your portfolio.
+View Portfolio: Display your current portfolio with calculated metrics such as current value and gain/loss for each stock, as well as the overall portfolio summary.
+Data Persistence: Portfolio data is saved to a CSV file (portfolio.csv) and loaded upon application startup, so your data is preserved between sessions.
+How to Use
+Save the code: Save the provided Python code as a file (e.g., portfolio_tracker.py).
+Run the application: Open a terminal or command prompt, navigate to the directory where you saved the file, and run the script using Python:
